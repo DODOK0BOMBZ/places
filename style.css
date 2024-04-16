@@ -1,0 +1,24 @@
+body{
+    background-image: url("https://i.pinimg.com/564x/4e/c1/04/4ec1041018f93c6fdf7d9a44549c869e.jpg");
+    background-size: cover;
+}
+
+#score{
+    font-size:xx-large;
+    margin-left: 70px;
+    color:rgb(186, 87, 186);
+}
+
+#time{
+    font-size: xx-large;
+    margin-left: 1150px;
+    color:rgb(233, 98, 121);
+}
+
+
+
+p{
+    color:white;
+    font-size: large;
+
+}
